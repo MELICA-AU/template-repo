@@ -8,12 +8,10 @@ The roadmap to accomplish our goals combines three research activities:
 * Creation of a thematic digital archive focused on the civil defense from materials present in the Aarhus City Archive
 * Smart text and spatial analysis of the two archives :smile:
 
-[In two to three sentences state the purpose of this repository, ideally tying it to an existing MELICA milestone. E.g., The purpose of this repository is to provide templates for all future MELICA repositories in order to save precious time and maintain high standards and uniformity of our documentation.]
 ---
 
 ## Purpose
-Collect, reconcile and merge field-collected data on shelters, to map our their 2024 status quo, afterlife, landuse and utilization.
-The product is a master dataset with ground-truthed data.
+[In two to three sentences state the purpose of this repository in greater detail, ideally tying it to an existing SDAM milestone. E.g., The purpose of this repository is to provide templates for all future SDAM repositories in order to save precious time and maintain high standards and uniformity of our documentation.]
 
 ---
 ## Authors
