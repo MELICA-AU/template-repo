@@ -1,4 +1,4 @@
-# Field data from ground truthing BDGs in Aarhus
+# Meaningful Repo name
 *pick type of repository (TOOL, ETL, ANALYSIS, ADMIN)*
 
 MELICA investigates the empirical basis of Cold-War preparedness in Aarhus by (1) reconstructing the everyday experience of individuals living in Cold-War Aarhus through spatial analysis of shelter locations and text analysis of written sources to assess whether the evidence points towards a militarization of everyday life or ‘normalization’ of war, (2) identifying gaps between how Cold-War civil defense was conceptualized at the national level and delivered at the local level in Aarhus, and (3) evaluating civil defense effectiveness by simulating a shelter drill, identifying weak points and stakeholders in civil defense planning.
@@ -8,8 +8,7 @@ The roadmap to accomplish our goals combines three research activities:
 * Creation of a thematic digital archive focused on the civil defense from materials present in the Aarhus City Archive
 * Smart text and spatial analysis of the two archives :smile:
 
-This repository serves to store scripts related to the first objective: the processing of field captured data during 2023 with FAIMS v2.6 and 2024 with Fieldmark v1.0, including the combination of data captured via the online and local servers!
-
+[In two to three sentences state the purpose of this repository, ideally tying it to an existing MELICA milestone. E.g., The purpose of this repository is to provide templates for all future MELICA repositories in order to save precious time and maintain high standards and uniformity of our documentation.]
 ---
 
 ## Purpose
